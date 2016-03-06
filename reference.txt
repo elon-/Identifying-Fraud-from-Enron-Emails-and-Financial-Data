@@ -1,0 +1,5 @@
+1.	Sklearn documentation.
+2.	Y-hat .com
+3.	http://sebastianraschka.com.
+4.	Udacity.com       
+5.      https://github.com/allanbreyes/udacity-data-science/blob/master/p4/README.md
